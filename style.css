@@ -44,3 +44,16 @@ body {
     text-decoration: none;
     transform: skew(25deg);
   }
+  h1 {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .line1 {
+    border: 10px solid #f3ebeb94;
+    width: 90%;
+}
+  .par{
+    color: #FFF;
+    text-align: justify;
+  }
