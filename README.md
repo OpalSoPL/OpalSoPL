@@ -6,4 +6,5 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 <br>I am a programmer-translator
 
-![OpalSoPL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OpalSoPL&theme=vue-dark&hide_border=false)
+
+![OpalSoPL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OpalSoPL&theme=vue-dark&hide_border=true)
