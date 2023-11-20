@@ -5,7 +5,7 @@
 ![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)<br>
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 - - - 
-<br>Member and one of founders of 2DCuvi Studio.<br> Also a hobbystic translator.
+<br>Also a hobbystic translator.
 
 - - - 
 
