@@ -1,4 +1,5 @@
 # <img src="/assets/avatar.jpg" height="75" alt="avatar"></img> Hi, OpalSoPL here<br>
+<img src="/assets/baner.svg" alt="section baner"></img>
 ## tech I use to develop the code
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -9,10 +10,10 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
-- - - 
+
+<img src="/assets/baner.svg" alt="section baner"></img>
 <br>Also a hobbystic translator.
 
-- - - 
 
 ![OpalSoPL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OpalSoPL&theme=vue-dark&hide_border=true)
 
