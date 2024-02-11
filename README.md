@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
-<img src="/assets/baner.svg" alt="section baner"></img>
+---
 
 hobbyist developer
 
