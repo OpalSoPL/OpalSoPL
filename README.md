@@ -12,11 +12,12 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
 <img src="/assets/baner.svg" alt="section baner"></img>
-<br>Also a hobbystic translator.
+
+hobbyist developer
 
 
 ![OpalSoPL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OpalSoPL&theme=vue-dark&hide_border=true)
 
-<sup>Art used as avatar, made by [u/SimonSquared](https://www.reddit.com/user/SimonSquared/) and [u/Merrimation](https://www.reddit.com/user/Merrimation/) (original post: [on r/ralsei](https://www.reddit.com/r/ralsei/comments/1682csd/ralsei_art_collab_with_merritz/))</sup>
+<sup><sup>Art used as avatar, made by [u/SimonSquared](https://www.reddit.com/user/SimonSquared/) and [u/Merrimation](https://www.reddit.com/user/Merrimation/) (original post: [on r/ralsei](https://www.reddit.com/r/ralsei/comments/1682csd/ralsei_art_collab_with_merritz/))</sup></sup>
 
 
