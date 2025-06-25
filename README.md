@@ -19,7 +19,7 @@
 
 idk what to write here (:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=opalsopl&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=opalsopl&theme=cobalt2&hide_border=true)](https://git.io/streak-stats)
 
 # Contact
 - Discord: opalsopl_dev (rarely used)
