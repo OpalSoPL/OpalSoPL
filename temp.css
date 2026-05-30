@@ -1,0 +1,27 @@
+/* temporary CSS */
+body {
+    font-family: Trebuchet MS, sans-serif;
+    background: #00398f;
+
+    position: relative;
+    min-height: 100vh;
+    margin: 0px;
+}
+
+#info-center
+{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  color: yellow;
+  text-align: center;
+
+  h1, h2
+  {
+    margin: 0;
+  }
+}
